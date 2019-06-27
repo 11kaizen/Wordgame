@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="White">#FFFFFF</color>
+    <color name="Ocean_Deep">#00FFAE</color>
+    <color name="Red">#FF0008</color>
+    <color name="Yellow">#FDDB01</color>
+    <color name="Black">#070707</color>
+    <color name="colorPrimary">#474787</color>
+    <color name="colorPrimaryDark">#474787</color>
+    <color name="colorAccent">#474787</color>
+    <color name="TextView_Color">#C806725C</color>
+
+</resources>

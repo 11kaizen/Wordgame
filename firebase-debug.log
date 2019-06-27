@@ -1,0 +1,27 @@
+[debug] [2019-06-20T16:32:44.363Z] ----------------------------------------------------------------------
+[debug] [2019-06-20T16:32:44.367Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-06-20T16:32:44.367Z] CLI Version:   7.0.0
+[debug] [2019-06-20T16:32:44.367Z] Platform:      win32
+[debug] [2019-06-20T16:32:44.367Z] Node Version:  v10.16.0
+[debug] [2019-06-20T16:32:44.369Z] Time:          Thu Jun 20 2019 19:32:44 GMT+0300 (East Africa Time)
+[debug] [2019-06-20T16:32:44.369Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-06-20T16:32:44.382Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-06-20T16:32:44.383Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\admin\AndroidStudioProjects\WordGame
+
+[debug] [2019-06-20T16:33:16.482Z] Error: kill ENOSYS
+    at process.kill (internal/process/per_thread.js:198:13)
+    at process.listener (C:\Users\admin\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (events.js:198:13)
+[error] 
+[error] Error: An unexpected error has occurred.
